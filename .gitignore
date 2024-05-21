@@ -45,3 +45,11 @@ junk
 tmp
 
 .ipynb_checkpoints
+pyvenv.cfg
+Lib/site-packages/typing_extensions.py
+/Lib
+/ph/Lib
+/ph
+/phidata/Lib
+/phidata
+/scripts
