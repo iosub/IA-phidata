@@ -1,0 +1,6 @@
+c:\Ia\iosub\IA\IA-phidata\scripts\create_venv.bat EJECTA ESTO!!
+
+sales_assistant.py
+
+Ollama
+tool_call.py
